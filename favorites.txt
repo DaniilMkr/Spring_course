@@ -1,4 +1,12 @@
+<<<<<<< HEAD
 1.sasdasdasdasdasdaseww
 33
 
 fsdfsdfsdfsdsdffe
+=======
+dsdas
+sasdasdasdasdasdas
+sasdasdasdasdasdas
+asdasdas
+asdasdas
+>>>>>>> movies
