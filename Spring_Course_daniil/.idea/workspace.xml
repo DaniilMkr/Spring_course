@@ -5,50 +5,95 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef222ec5-4b65-415f-a0e2-78121329022a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myApp.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/spring/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/spring/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/spring/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/spring/Pet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/spring/TEST1_Create_Object_with_Spring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/spring/TEST2_Dependency_injection_in_constructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/spring/TEST3_Dependency_injection_in_setMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/spring/TEST4_Dependency_injection_in_setMethod_via_propperty_file.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/spring/TEST5_Bean_scope_singleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/spring/TEST6_Bean_scope_Prototype.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/spring/TEST7_Config_with_Annotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/spring/TEST8_Config_with_Annotation_Qualifier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/spring/TEST9_Init_and_Destroy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/spring/Cat.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/spring/Dog.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/spring/Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/spring/Pet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/spring/TEST1_Create_Object_with_Spring.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/spring/TEST2_Dependency_injection_in_constructor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/spring/TEST3_Dependency_injection_in_setMethod.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/spring/TEST4_Dependency_injection_in_setMethod_via_propperty_file.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/spring/TEST5_Bean_scope_singleton.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/spring/TEST6_Bean_scope_Prototype.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/spring/TEST7_Config_with_Annotation.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/spring/TEST8_Config_with_Annotation_Qualifier.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/spring/TEST9_Init_and_Destroy.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../favorites.txt" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/my.properties.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/spring/T10_Spring_Configuration_with_Annotation/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/spring/T10_Spring_Configuration_with_Annotation/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/spring/T10_Spring_Configuration_with_Annotation/MyConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/spring/T10_Spring_Configuration_with_Annotation/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/spring/T10_Spring_Configuration_with_Annotation/Pet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/spring/T10_Spring_Configuration_with_Annotation/TEST10_Spring_Configuration_with_AnnotationConfigApplicationContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/spring/T11_Spring_Dependency_with_Annotation_inside_Configuration_Class/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/spring/T11_Spring_Dependency_with_Annotation_inside_Configuration_Class/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/spring/T11_Spring_Dependency_with_Annotation_inside_Configuration_Class/MyConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/spring/T11_Spring_Dependency_with_Annotation_inside_Configuration_Class/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/spring/T11_Spring_Dependency_with_Annotation_inside_Configuration_Class/Pet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/spring/T11_Spring_Dependency_with_Annotation_inside_Configuration_Class/TEST11_Spring_Configuration_with_Annotation_inside_Configuration_Class.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/spring/T12_Annotation_Value_in_Java_Code/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/spring/T12_Annotation_Value_in_Java_Code/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/spring/T12_Annotation_Value_in_Java_Code/MyConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/spring/T12_Annotation_Value_in_Java_Code/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/spring/T12_Annotation_Value_in_Java_Code/Pet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/spring/T12_Annotation_Value_in_Java_Code/T12_Annotation_Value_in_Java_Code.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/spring/T1_Create_Object_with_Spring/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/spring/T1_Create_Object_with_Spring/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/spring/T1_Create_Object_with_Spring/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/spring/T1_Create_Object_with_Spring/Pet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/spring/T2_Dependency_injection_in_constructor/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/spring/T2_Dependency_injection_in_constructor/Pet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/spring/T3_Dependency_injection_in_setMethod/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/spring/T3_Dependency_injection_in_setMethod/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/spring/T3_Dependency_injection_in_setMethod/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/spring/T3_Dependency_injection_in_setMethod/Pet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/spring/T4_Dependency_injection_in_setMethod_via_Property_File/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/spring/T4_Dependency_injection_in_setMethod_via_Property_File/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/spring/T4_Dependency_injection_in_setMethod_via_Property_File/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/spring/T4_Dependency_injection_in_setMethod_via_Property_File/Pet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/spring/T5_Bean_Scope_Singleton/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/spring/T5_Bean_Scope_Singleton/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/spring/T6_Bean_scope_Prototype/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/spring/T6_Bean_scope_Prototype/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/spring/T6_Bean_scope_Prototype/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/spring/T6_Bean_scope_Prototype/Pet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/spring/T7_Config_with_Annotation/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/spring/T7_Config_with_Annotation/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/spring/T7_Config_with_Annotation/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/spring/T7_Config_with_Annotation/Pet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/spring/T8_Config_with_Annotation_Qualifier/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/spring/T8_Config_with_Annotation_Qualifier/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/spring/T8_Config_with_Annotation_Qualifier/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/spring/T8_Config_with_Annotation_Qualifier/Pet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/spring/T9_Init_and_Destroy/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/spring/T9_Init_and_Destroy/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/spring/T9_Init_and_Destroy/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/spring/T9_Init_and_Destroy/Pet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/application1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/application2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/application3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/application4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/application5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/application6.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application7.xml" beforeDir="false" afterPath="$PROJECT_DIR$/application7.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application8.xml" beforeDir="false" afterPath="$PROJECT_DIR$/application8.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application9.xml" beforeDir="false" afterPath="$PROJECT_DIR$/application9.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myApp.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/spring/T12_Annotation_Value_in_Java_Code/myApp.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/spring/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/spring/T2_Dependency_injection_in_constructor/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/spring/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/spring/T5_Bean_Scope_Singleton/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/spring/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/spring/T2_Dependency_injection_in_constructor/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/spring/Pet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/spring/T5_Bean_Scope_Singleton/Pet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/spring/TEST1_Create_Object_with_Spring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/spring/T1_Create_Object_with_Spring/TEST1_Create_Object_with_Spring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/spring/TEST2_Dependency_injection_in_constructor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/spring/T2_Dependency_injection_in_constructor/TEST2_Dependency_injection_in_constructor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/spring/TEST3_Dependency_injection_in_setMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/spring/T3_Dependency_injection_in_setMethod/TEST3_Dependency_injection_in_setMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/spring/TEST4_Dependency_injection_in_setMethod_via_propperty_file.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/spring/T4_Dependency_injection_in_setMethod_via_Property_File/TEST4_Dependency_injection_in_setMethod_via_Property_File.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/spring/TEST5_Bean_scope_singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/spring/T5_Bean_Scope_Singleton/TEST5_Bean_scope_singleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/spring/TEST6_Bean_scope_Prototype.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/spring/T6_Bean_scope_Prototype/TEST6_Bean_scope_Prototype.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/spring/TEST7_Config_with_Annotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/spring/T7_Config_with_Annotation/TEST7_Config_with_Annotation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/spring/TEST8_Config_with_Annotation_Qualifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/spring/T8_Config_with_Annotation_Qualifier/TEST8_Config_with_Annotation_Qualifier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/spring/TEST9_Init_and_Destroy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/spring/T9_Init_and_Destroy/TEST9_Init_and_Destroy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring/Pet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring/TEST1_Create_Object_with_Spring.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring/TEST2_Dependency_injection_in_constructor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring/TEST3_Dependency_injection_in_setMethod.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring/TEST4_Dependency_injection_in_setMethod_via_propperty_file.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring/TEST5_Bean_scope_singleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring/TEST6_Bean_scope_Prototype.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring/TEST7_Config_with_Annotation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring/TEST8_Config_with_Annotation_Qualifier.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring/TEST9_Init_and_Destroy.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,32 +128,40 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/Daniil/Git/Practice/Spring_Course_daniil",
+    "last_opened_file_path": "C:/Users/Daniil/Git/Practice/Spring_Course_daniil/src/spring/T12_Annotation_Value_in_Java_Code",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.45747125"
+    "project.structure.side.proportion": "0.45747125",
+    "settings.editor.selected.configurable": "preferences.pathVariables"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Daniil\Git\Practice\Spring_Course_daniil" />
+      <recent name="C:\Users\Daniil\Git\Practice\Spring_Course_daniil\src\spring\T12_Annotation_Value_in_Java_Code" />
+      <recent name="C:\Users\Daniil\Git\Practice\Spring_Course_daniil\src\spring\T10_Spring_Configuration_with_Annotation" />
+      <recent name="C:\Users\Daniil\Git\Practice\Spring_Course_daniil\src\spring\T9_Init_and_Destroy" />
+      <recent name="C:\Users\Daniil\Git\Practice\Spring_Course_daniil\src\spring\T8_Config_with_Annotation_Qualifier" />
+      <recent name="C:\Users\Daniil\Git\Practice\Spring_Course_daniil\src\spring\T7_Config_with_Annotation" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Daniil\Git\Practice\Spring_Course_daniil\src\spring\T12_Annotation_Value_in_Java_Code" />
       <recent name="C:\Users\Daniil\Git\Practice\Spring_Course_daniil" />
-      <recent name="C:\Users\Daniil\Git\Practice\Spring_Course_daniil\src" />
       <recent name="C:\Users\Daniil\Git\Practice\Spring_Course_daniil\resources" />
+      <recent name="C:\Users\Daniil\Git\Practice\Spring_Course_daniil\src\spring\Create_Object_with_Spring" />
+      <recent name="C:\Users\Daniil\Git\Practice\Spring_Course_daniil\src" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="spring.T10_Spring_Configuration_with_Annotation" />
       <recent name="spring" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TEST9_Init_and_Destroy">
-    <configuration name="TEST4_Dependency_injection_in_setMethod_via_propperty_file" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="spring.TEST4_Dependency_injection_in_setMethod_via_propperty_file" />
+  <component name="RunManager" selected="Application.T12_Annotation_Value_in_Java_Code">
+    <configuration name="T12_Annotation_Value_in_Java_Code" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="spring.T12_Annotation_Value_in_Java_Code.T12_Annotation_Value_in_Java_Code" />
       <module name="Spring_Course_daniil" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="spring.*" />
+          <option name="PATTERN" value="spring.T12_Annotation_Value_in_Java_Code.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,12 +169,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TEST6_Bean_scope_Prototype" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="spring.TEST6_Bean_scope_Prototype" />
+    <configuration name="TEST10_Spring_Configuration_with_AnnotationConfigApplicationContext" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="spring.T10_Spring_Configuration_with_Annotation.TEST10_Spring_Configuration_with_AnnotationConfigApplicationContext" />
       <module name="Spring_Course_daniil" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="spring.*" />
+          <option name="PATTERN" value="spring.T10_Spring_Configuration_with_Annotation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,12 +182,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TEST7_Config_with_Annotation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="spring.TEST7_Config_with_Annotation" />
+    <configuration name="TEST11_Spring_Configuration_with_Annotation_inside_Configuration_Class" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="spring.T11_Spring_Dependency_with_Annotation_inside_Configuration_Class.TEST11_Spring_Configuration_with_Annotation_inside_Configuration_Class" />
       <module name="Spring_Course_daniil" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="spring.*" />
+          <option name="PATTERN" value="spring.T11_Spring_Dependency_with_Annotation_inside_Configuration_Class.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,12 +195,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TEST8_Config_with_Annotation_Qualifier" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="spring.TEST8_Config_with_Annotation_Qualifier" />
+    <configuration name="TEST5_Bean_scope_singleton" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="spring.T5_Bean_Scope_Singleton.TEST5_Bean_scope_singleton" />
       <module name="Spring_Course_daniil" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="spring.*" />
+          <option name="PATTERN" value="spring.T5_Bean_Scope_Singleton.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,11 +209,11 @@
       </method>
     </configuration>
     <configuration name="TEST9_Init_and_Destroy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="spring.TEST9_Init_and_Destroy" />
+      <option name="MAIN_CLASS_NAME" value="spring.T9_Init_and_Destroy.TEST9_Init_and_Destroy" />
       <module name="Spring_Course_daniil" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="spring.*" />
+          <option name="PATTERN" value="spring.T9_Init_and_Destroy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -170,11 +223,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.T12_Annotation_Value_in_Java_Code" />
+        <item itemvalue="Application.spring.T11_Spring_Dependency_with_Annotation_inside_Configuration_Class.TEST11_Spring_Configuration_with_Annotation_inside_Configuration_Class" />
+        <item itemvalue="Application.TEST10_Spring_Configuration_with_AnnotationConfigApplicationContext" />
+        <item itemvalue="Application.TEST5_Bean_scope_singleton" />
         <item itemvalue="Application.TEST9_Init_and_Destroy" />
-        <item itemvalue="Application.TEST4_Dependency_injection_in_setMethod_via_propperty_file" />
-        <item itemvalue="Application.TEST8_Config_with_Annotation_Qualifier" />
-        <item itemvalue="Application.TEST7_Config_with_Annotation" />
-        <item itemvalue="Application.TEST6_Bean_scope_Prototype" />
       </list>
     </recent_temporary>
   </component>
@@ -189,7 +242,27 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand>
+      <path>
+        <item name="Spring_Course_daniil" type="b2602c69:ProjectViewProjectNode" />
+        <item name="Spring_Course_daniil" type="462c0819:PsiDirectoryNode" />
+      </path>
+    </expand>
+    <select />
   </component>
 </project>
