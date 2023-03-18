@@ -7,7 +7,7 @@ import org.springframework.context.annotation.Scope;
 
 
 @Configuration
-@PropertySource("classpath:myApp.properties")
+@PropertySource("file:C:\\Users\\Daniil\\Git\\Practice\\Spring_Course_daniil\\myApp.properties")
 public class MyConfig {
 
     @Bean
