@@ -335,20 +335,7 @@
       <recent name="spring" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TEST11_Spring_Configuration_with_Annotation_inside_Configuration_Class">
-    <configuration name="Aspect_Oriented_Programming.JoinPoint.TEST_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Aspect_Oriented_Programming.JoinPoint.TEST_1" />
-      <module name="Spring_Course_daniil" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Aspect_Oriented_Programming.JoinPoint.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.TEST1_Create_Object_with_Spring">
     <configuration name="Aspect_Oriented_Programming.PointCut_with_Referance.TEST_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Aspect_Oriented_Programming.PointCut_with_Referance.TEST_1" />
       <module name="Spring_Course_daniil" />
@@ -388,12 +375,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TEST_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Around_Advice.TEST_1" />
+    <configuration name="TEST1_Create_Object_with_Spring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Dependency_Injection_and_Spring_Container_Configuration.T1_Create_Object_with_Spring.TEST1_Create_Object_with_Spring" />
       <module name="Spring_Course_daniil" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Around_Advice.*" />
+          <option name="PATTERN" value="Dependency_Injection_and_Spring_Container_Configuration.T1_Create_Object_with_Spring.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="After_Return_Advice.Test" />
+      <module name="Spring_Course_daniil" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="After_Return_Advice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -403,11 +403,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TEST11_Spring_Configuration_with_Annotation_inside_Configuration_Class" />
-        <item itemvalue="Application.TEST_1" />
-        <item itemvalue="Application.Aspect_Oriented_Programming.PointCut_with_Referance.TEST_1" />
+        <item itemvalue="Application.TEST1_Create_Object_with_Spring" />
         <item itemvalue="Application.T12_Annotation_Value_in_Java_Code" />
-        <item itemvalue="Application.Aspect_Oriented_Programming.JoinPoint.TEST_1" />
+        <item itemvalue="Application.Aspect_Oriented_Programming.PointCut_with_Referance.TEST_1" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.TEST11_Spring_Configuration_with_Annotation_inside_Configuration_Class" />
       </list>
     </recent_temporary>
   </component>
