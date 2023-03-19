@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+    http://www.springframework.org/schema/beans/spring-beans.xsd
+    http://www.springframework.org/schema/context
+    http://www.springframework.org/schema/context/spring-context.xsd">
+
+    <!--Bean created to get it from class Cat-->
+    <bean id = "myPet"
+          class="Dependency_Injection_and_Spring_Container_Configuration.T3_Dependency_injection_in_setMethod.Cat">
+    </bean>
+
+    <bean id="myPerson"
+          class="Dependency_Injection_and_Spring_Container_Configuration.T3_Dependency_injection_in_setMethod.Person">
+        <property name="pet" ref="myPet"/>
+
+
+    </bean>
+
+</beans>
