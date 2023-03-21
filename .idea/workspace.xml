@@ -5,275 +5,46 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef222ec5-4b65-415f-a0e2-78121329022a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/application1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/application2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/application3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/application4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/application5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/application6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/application7.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/application8.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/application9.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/myApp.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/src/After_Return_Advice/MyConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/src/After_Return_Advice/Student.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/src/After_Return_Advice/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/src/After_Return_Advice/University.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/src/After_Return_Advice/UniversityLoggingAspect.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/src/After_Throwing_Advice/MyConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/src/After_Throwing_Advice/Student.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/src/After_Throwing_Advice/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/src/After_Throwing_Advice/University.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/src/After_Throwing_Advice/UniversityLoggingAspect.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/src/Around_Advice/Book.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/src/Around_Advice/Logging.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/src/Around_Advice/MyConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/src/Around_Advice/TEST_1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/src/Around_Advice/UniLibrary.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/src/Aspect_Oriented_Programming/JoinPoint/Book.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/src/Aspect_Oriented_Programming/JoinPoint/ExceptionHandling.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/src/Aspect_Oriented_Programming/JoinPoint/Logging.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/src/Aspect_Oriented_Programming/JoinPoint/MyConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/src/Aspect_Oriented_Programming/JoinPoint/PointCut.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/src/Aspect_Oriented_Programming/JoinPoint/SecurityCheck.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/src/Aspect_Oriented_Programming/JoinPoint/TEST_1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/src/Aspect_Oriented_Programming/JoinPoint/UniLibrary.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/src/Aspect_Oriented_Programming/PointCut/AbstractLibrary.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/src/Aspect_Oriented_Programming/PointCut/LoggingAspect.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/src/Aspect_Oriented_Programming/PointCut/MyConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/src/Aspect_Oriented_Programming/PointCut/SchoolLibrary.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/src/Aspect_Oriented_Programming/PointCut/TEST_1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/src/Aspect_Oriented_Programming/PointCut/UniLibrary.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/src/Aspect_Oriented_Programming/PointCut_AnyParameters_and_AnyMethod/LoggingAspect.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/src/Aspect_Oriented_Programming/PointCut_AnyParameters_and_AnyMethod/MyConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/src/Aspect_Oriented_Programming/PointCut_AnyParameters_and_AnyMethod/SchoolLibrary.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/src/Aspect_Oriented_Programming/PointCut_AnyParameters_and_AnyMethod/TEST_1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/src/Aspect_Oriented_Programming/PointCut_AnyParameters_and_AnyMethod/UniLibrary.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/src/Aspect_Oriented_Programming/PointCut_inObject/Book.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/src/Aspect_Oriented_Programming/PointCut_inObject/LoggingAspect.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/src/Aspect_Oriented_Programming/PointCut_inObject/MyConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/src/Aspect_Oriented_Programming/PointCut_inObject/SchoolLibrary.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/src/Aspect_Oriented_Programming/PointCut_inObject/TEST_1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/src/Aspect_Oriented_Programming/PointCut_inObject/UniLibrary.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/src/Aspect_Oriented_Programming/PointCut_with_Order/Aspects/ExceptionHandling.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/src/Aspect_Oriented_Programming/PointCut_with_Order/Aspects/Logging.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/src/Aspect_Oriented_Programming/PointCut_with_Order/Aspects/PointCut.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/src/Aspect_Oriented_Programming/PointCut_with_Order/Aspects/SecurityCheck.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/src/Aspect_Oriented_Programming/PointCut_with_Order/Book.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/src/Aspect_Oriented_Programming/PointCut_with_Order/MyConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/src/Aspect_Oriented_Programming/PointCut_with_Order/TEST_1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/src/Aspect_Oriented_Programming/PointCut_with_Order/UniLibrary.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/src/Aspect_Oriented_Programming/PointCut_with_Parameters/LoggingAspect.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/src/Aspect_Oriented_Programming/PointCut_with_Parameters/MyConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/src/Aspect_Oriented_Programming/PointCut_with_Parameters/SchoolLibrary.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/src/Aspect_Oriented_Programming/PointCut_with_Parameters/TEST_1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/src/Aspect_Oriented_Programming/PointCut_with_Parameters/UniLibrary.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/src/Aspect_Oriented_Programming/PointCut_with_Parameters_with_Security_Checks/Book.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/src/Aspect_Oriented_Programming/PointCut_with_Parameters_with_Security_Checks/LoggingAndSecurityAspect.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/src/Aspect_Oriented_Programming/PointCut_with_Parameters_with_Security_Checks/MyConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/src/Aspect_Oriented_Programming/PointCut_with_Parameters_with_Security_Checks/TEST_1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/src/Aspect_Oriented_Programming/PointCut_with_Parameters_with_Security_Checks/UniLibrary.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/src/Aspect_Oriented_Programming/PointCut_with_Referance/Book.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/src/Aspect_Oriented_Programming/PointCut_with_Referance/LoggingAndSecurityAspect.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/src/Aspect_Oriented_Programming/PointCut_with_Referance/MyConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/src/Aspect_Oriented_Programming/PointCut_with_Referance/TEST_1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/src/Aspect_Oriented_Programming/PointCut_with_Referance/UniLibrary.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/src/Dependency_Injection_and_Spring_Container_Configuration/T10_Spring_Configuration_with_Annotation/Cat.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/src/Dependency_Injection_and_Spring_Container_Configuration/T10_Spring_Configuration_with_Annotation/Dog.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/src/Dependency_Injection_and_Spring_Container_Configuration/T10_Spring_Configuration_with_Annotation/MyConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/src/Dependency_Injection_and_Spring_Container_Configuration/T10_Spring_Configuration_with_Annotation/Person.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/src/Dependency_Injection_and_Spring_Container_Configuration/T10_Spring_Configuration_with_Annotation/Pet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/src/Dependency_Injection_and_Spring_Container_Configuration/T10_Spring_Configuration_with_Annotation/TEST10_Spring_Configuration_with_AnnotationConfigApplicationContext.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/src/Dependency_Injection_and_Spring_Container_Configuration/T11_Spring_Dependency_with_Annotation_inside_Configuration_Class/Cat.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/src/Dependency_Injection_and_Spring_Container_Configuration/T11_Spring_Dependency_with_Annotation_inside_Configuration_Class/Dog.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/src/Dependency_Injection_and_Spring_Container_Configuration/T11_Spring_Dependency_with_Annotation_inside_Configuration_Class/MyConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/src/Dependency_Injection_and_Spring_Container_Configuration/T11_Spring_Dependency_with_Annotation_inside_Configuration_Class/Person.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/src/Dependency_Injection_and_Spring_Container_Configuration/T11_Spring_Dependency_with_Annotation_inside_Configuration_Class/Pet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/src/Dependency_Injection_and_Spring_Container_Configuration/T11_Spring_Dependency_with_Annotation_inside_Configuration_Class/TEST11_Spring_Configuration_with_Annotation_inside_Configuration_Class.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/src/Dependency_Injection_and_Spring_Container_Configuration/T12_Annotation_Value_in_Java_Code/Cat.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/src/Dependency_Injection_and_Spring_Container_Configuration/T12_Annotation_Value_in_Java_Code/Dog.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/src/Dependency_Injection_and_Spring_Container_Configuration/T12_Annotation_Value_in_Java_Code/MyConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/src/Dependency_Injection_and_Spring_Container_Configuration/T12_Annotation_Value_in_Java_Code/Person.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/src/Dependency_Injection_and_Spring_Container_Configuration/T12_Annotation_Value_in_Java_Code/Pet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/src/Dependency_Injection_and_Spring_Container_Configuration/T12_Annotation_Value_in_Java_Code/T12_Annotation_Value_in_Java_Code.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/src/Dependency_Injection_and_Spring_Container_Configuration/T1_Create_Object_with_Spring/Cat.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/src/Dependency_Injection_and_Spring_Container_Configuration/T1_Create_Object_with_Spring/Dog.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/src/Dependency_Injection_and_Spring_Container_Configuration/T1_Create_Object_with_Spring/Person.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/src/Dependency_Injection_and_Spring_Container_Configuration/T1_Create_Object_with_Spring/Pet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/src/Dependency_Injection_and_Spring_Container_Configuration/T1_Create_Object_with_Spring/TEST1_Create_Object_with_Spring.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/src/Dependency_Injection_and_Spring_Container_Configuration/T2_Dependency_injection_in_constructor/Cat.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/src/Dependency_Injection_and_Spring_Container_Configuration/T2_Dependency_injection_in_constructor/Dog.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/src/Dependency_Injection_and_Spring_Container_Configuration/T2_Dependency_injection_in_constructor/Person.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/src/Dependency_Injection_and_Spring_Container_Configuration/T2_Dependency_injection_in_constructor/Pet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/src/Dependency_Injection_and_Spring_Container_Configuration/T2_Dependency_injection_in_constructor/TEST2_Dependency_injection_in_constructor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/src/Dependency_Injection_and_Spring_Container_Configuration/T3_Dependency_injection_in_setMethod/Cat.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/src/Dependency_Injection_and_Spring_Container_Configuration/T3_Dependency_injection_in_setMethod/Dog.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/src/Dependency_Injection_and_Spring_Container_Configuration/T3_Dependency_injection_in_setMethod/Person.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/src/Dependency_Injection_and_Spring_Container_Configuration/T3_Dependency_injection_in_setMethod/Pet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/src/Dependency_Injection_and_Spring_Container_Configuration/T3_Dependency_injection_in_setMethod/TEST3_Dependency_injection_in_setMethod.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/src/Dependency_Injection_and_Spring_Container_Configuration/T4_Dependency_injection_in_setMethod_via_Property_File/Cat.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/src/Dependency_Injection_and_Spring_Container_Configuration/T4_Dependency_injection_in_setMethod_via_Property_File/Dog.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/src/Dependency_Injection_and_Spring_Container_Configuration/T4_Dependency_injection_in_setMethod_via_Property_File/Person.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/src/Dependency_Injection_and_Spring_Container_Configuration/T4_Dependency_injection_in_setMethod_via_Property_File/Pet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/src/Dependency_Injection_and_Spring_Container_Configuration/T4_Dependency_injection_in_setMethod_via_Property_File/TEST4_Dependency_injection_in_setMethod_via_Property_File.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/src/Dependency_Injection_and_Spring_Container_Configuration/T5_Bean_Scope_Singleton/Cat.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/src/Dependency_Injection_and_Spring_Container_Configuration/T5_Bean_Scope_Singleton/Dog.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/src/Dependency_Injection_and_Spring_Container_Configuration/T5_Bean_Scope_Singleton/Person.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/src/Dependency_Injection_and_Spring_Container_Configuration/T5_Bean_Scope_Singleton/Pet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/src/Dependency_Injection_and_Spring_Container_Configuration/T5_Bean_Scope_Singleton/TEST5_Bean_scope_singleton.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/src/Dependency_Injection_and_Spring_Container_Configuration/T6_Bean_scope_Prototype/Cat.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/src/Dependency_Injection_and_Spring_Container_Configuration/T6_Bean_scope_Prototype/Dog.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/src/Dependency_Injection_and_Spring_Container_Configuration/T6_Bean_scope_Prototype/Person.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/src/Dependency_Injection_and_Spring_Container_Configuration/T6_Bean_scope_Prototype/Pet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/src/Dependency_Injection_and_Spring_Container_Configuration/T6_Bean_scope_Prototype/TEST6_Bean_scope_Prototype.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/src/Dependency_Injection_and_Spring_Container_Configuration/T7_Config_with_Annotation/Cat.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/src/Dependency_Injection_and_Spring_Container_Configuration/T7_Config_with_Annotation/Dog.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/src/Dependency_Injection_and_Spring_Container_Configuration/T7_Config_with_Annotation/Person.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/src/Dependency_Injection_and_Spring_Container_Configuration/T7_Config_with_Annotation/Pet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/src/Dependency_Injection_and_Spring_Container_Configuration/T7_Config_with_Annotation/TEST7_Config_with_Annotation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/src/Dependency_Injection_and_Spring_Container_Configuration/T8_Config_with_Annotation_Qualifier/Cat.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/src/Dependency_Injection_and_Spring_Container_Configuration/T8_Config_with_Annotation_Qualifier/Dog.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/src/Dependency_Injection_and_Spring_Container_Configuration/T8_Config_with_Annotation_Qualifier/Person.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/src/Dependency_Injection_and_Spring_Container_Configuration/T8_Config_with_Annotation_Qualifier/Pet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/src/Dependency_Injection_and_Spring_Container_Configuration/T8_Config_with_Annotation_Qualifier/TEST8_Config_with_Annotation_Qualifier.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/src/Dependency_Injection_and_Spring_Container_Configuration/T9_Init_and_Destroy/Cat.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/src/Dependency_Injection_and_Spring_Container_Configuration/T9_Init_and_Destroy/Dog.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/src/Dependency_Injection_and_Spring_Container_Configuration/T9_Init_and_Destroy/Person.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/src/Dependency_Injection_and_Spring_Container_Configuration/T9_Init_and_Destroy/Pet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/src/Dependency_Injection_and_Spring_Container_Configuration/T9_Init_and_Destroy/TEST9_Init_and_Destroy.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/target/classes/After_Return_Advice/MyConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/target/classes/After_Return_Advice/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/target/classes/After_Return_Advice/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/target/classes/After_Return_Advice/University.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/target/classes/After_Return_Advice/UniversityLoggingAspect.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/target/classes/After_Throwing_Advice/MyConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/target/classes/After_Throwing_Advice/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/target/classes/After_Throwing_Advice/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/target/classes/After_Throwing_Advice/University.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/target/classes/After_Throwing_Advice/UniversityLoggingAspect.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/target/classes/Around_Advice/Book.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/target/classes/Around_Advice/Logging.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/target/classes/Around_Advice/MyConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/target/classes/Around_Advice/TEST_1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/target/classes/Around_Advice/UniLibrary.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/target/classes/Aspect_Oriented_Programming/JoinPoint/Book.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/target/classes/Aspect_Oriented_Programming/JoinPoint/ExceptionHandling.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/target/classes/Aspect_Oriented_Programming/JoinPoint/Logging.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/target/classes/Aspect_Oriented_Programming/JoinPoint/MyConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/target/classes/Aspect_Oriented_Programming/JoinPoint/PointCut.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/target/classes/Aspect_Oriented_Programming/JoinPoint/SecurityCheck.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/target/classes/Aspect_Oriented_Programming/JoinPoint/TEST_1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/target/classes/Aspect_Oriented_Programming/JoinPoint/UniLibrary.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/target/classes/Aspect_Oriented_Programming/PointCut/AbstractLibrary.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/target/classes/Aspect_Oriented_Programming/PointCut/LoggingAspect.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/target/classes/Aspect_Oriented_Programming/PointCut/MyConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/target/classes/Aspect_Oriented_Programming/PointCut/SchoolLibrary.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/target/classes/Aspect_Oriented_Programming/PointCut/TEST_1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/target/classes/Aspect_Oriented_Programming/PointCut/UniLibrary.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/target/classes/Aspect_Oriented_Programming/PointCut_AnyParameters_and_AnyMethod/LoggingAspect.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/target/classes/Aspect_Oriented_Programming/PointCut_AnyParameters_and_AnyMethod/MyConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/target/classes/Aspect_Oriented_Programming/PointCut_AnyParameters_and_AnyMethod/SchoolLibrary.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/target/classes/Aspect_Oriented_Programming/PointCut_AnyParameters_and_AnyMethod/TEST_1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/target/classes/Aspect_Oriented_Programming/PointCut_AnyParameters_and_AnyMethod/UniLibrary.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/target/classes/Aspect_Oriented_Programming/PointCut_inObject/Book.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/target/classes/Aspect_Oriented_Programming/PointCut_inObject/LoggingAspect.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/target/classes/Aspect_Oriented_Programming/PointCut_inObject/MyConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/target/classes/Aspect_Oriented_Programming/PointCut_inObject/SchoolLibrary.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/target/classes/Aspect_Oriented_Programming/PointCut_inObject/TEST_1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/target/classes/Aspect_Oriented_Programming/PointCut_inObject/UniLibrary.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/target/classes/Aspect_Oriented_Programming/PointCut_with_Order/Aspects/ExceptionHandling.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/target/classes/Aspect_Oriented_Programming/PointCut_with_Order/Aspects/Logging.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/target/classes/Aspect_Oriented_Programming/PointCut_with_Order/Aspects/PointCut.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/target/classes/Aspect_Oriented_Programming/PointCut_with_Order/Aspects/SecurityCheck.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/target/classes/Aspect_Oriented_Programming/PointCut_with_Order/Book.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/target/classes/Aspect_Oriented_Programming/PointCut_with_Order/MyConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/target/classes/Aspect_Oriented_Programming/PointCut_with_Order/TEST_1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/target/classes/Aspect_Oriented_Programming/PointCut_with_Order/UniLibrary.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/target/classes/Aspect_Oriented_Programming/PointCut_with_Parameters/LoggingAspect.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/target/classes/Aspect_Oriented_Programming/PointCut_with_Parameters/MyConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/target/classes/Aspect_Oriented_Programming/PointCut_with_Parameters/SchoolLibrary.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/target/classes/Aspect_Oriented_Programming/PointCut_with_Parameters/TEST_1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/target/classes/Aspect_Oriented_Programming/PointCut_with_Parameters/UniLibrary.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/target/classes/Aspect_Oriented_Programming/PointCut_with_Parameters_with_Security_Checks/Book.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/target/classes/Aspect_Oriented_Programming/PointCut_with_Parameters_with_Security_Checks/LoggingAndSecurityAspect.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/target/classes/Aspect_Oriented_Programming/PointCut_with_Parameters_with_Security_Checks/MyConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/target/classes/Aspect_Oriented_Programming/PointCut_with_Parameters_with_Security_Checks/TEST_1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/target/classes/Aspect_Oriented_Programming/PointCut_with_Parameters_with_Security_Checks/UniLibrary.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/target/classes/Aspect_Oriented_Programming/PointCut_with_Referance/Book.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/target/classes/Aspect_Oriented_Programming/PointCut_with_Referance/LoggingAndSecurityAspect.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/target/classes/Aspect_Oriented_Programming/PointCut_with_Referance/MyConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/target/classes/Aspect_Oriented_Programming/PointCut_with_Referance/TEST_1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/target/classes/Aspect_Oriented_Programming/PointCut_with_Referance/UniLibrary.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/target/classes/spring/T10_Spring_Configuration_with_Annotation/Cat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/target/classes/spring/T10_Spring_Configuration_with_Annotation/Dog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/target/classes/spring/T10_Spring_Configuration_with_Annotation/MyConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/target/classes/spring/T10_Spring_Configuration_with_Annotation/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/target/classes/spring/T10_Spring_Configuration_with_Annotation/Pet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/target/classes/spring/T10_Spring_Configuration_with_Annotation/TEST10_Spring_Configuration_with_AnnotationConfigApplicationContext.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/target/classes/spring/T11_Spring_Dependency_with_Annotation_inside_Configuration_Class/Cat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/target/classes/spring/T11_Spring_Dependency_with_Annotation_inside_Configuration_Class/Dog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/target/classes/spring/T11_Spring_Dependency_with_Annotation_inside_Configuration_Class/MyConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/target/classes/spring/T11_Spring_Dependency_with_Annotation_inside_Configuration_Class/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/target/classes/spring/T11_Spring_Dependency_with_Annotation_inside_Configuration_Class/Pet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/target/classes/spring/T11_Spring_Dependency_with_Annotation_inside_Configuration_Class/TEST11_Spring_Configuration_with_Annotation_inside_Configuration_Class.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/target/classes/spring/T12_Annotation_Value_in_Java_Code/Cat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/target/classes/spring/T12_Annotation_Value_in_Java_Code/Dog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/target/classes/spring/T12_Annotation_Value_in_Java_Code/MyConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/target/classes/spring/T12_Annotation_Value_in_Java_Code/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/target/classes/spring/T12_Annotation_Value_in_Java_Code/Pet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/target/classes/spring/T12_Annotation_Value_in_Java_Code/T12_Annotation_Value_in_Java_Code.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/target/classes/spring/T1_Create_Object_with_Spring/Cat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/target/classes/spring/T1_Create_Object_with_Spring/Dog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/target/classes/spring/T1_Create_Object_with_Spring/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/target/classes/spring/T1_Create_Object_with_Spring/Pet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/target/classes/spring/T1_Create_Object_with_Spring/TEST1_Create_Object_with_Spring.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/target/classes/spring/T2_Dependency_injection_in_constructor/Cat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/target/classes/spring/T2_Dependency_injection_in_constructor/Dog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/target/classes/spring/T2_Dependency_injection_in_constructor/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/target/classes/spring/T2_Dependency_injection_in_constructor/Pet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/target/classes/spring/T2_Dependency_injection_in_constructor/TEST2_Dependency_injection_in_constructor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/target/classes/spring/T3_Dependency_injection_in_setMethod/Cat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/target/classes/spring/T3_Dependency_injection_in_setMethod/Dog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/target/classes/spring/T3_Dependency_injection_in_setMethod/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/target/classes/spring/T3_Dependency_injection_in_setMethod/Pet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/target/classes/spring/T3_Dependency_injection_in_setMethod/TEST3_Dependency_injection_in_setMethod.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/target/classes/spring/T4_Dependency_injection_in_setMethod_via_Property_File/Cat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/target/classes/spring/T4_Dependency_injection_in_setMethod_via_Property_File/Dog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/target/classes/spring/T4_Dependency_injection_in_setMethod_via_Property_File/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/target/classes/spring/T4_Dependency_injection_in_setMethod_via_Property_File/Pet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/target/classes/spring/T4_Dependency_injection_in_setMethod_via_Property_File/TEST4_Dependency_injection_in_setMethod_via_Property_File.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/target/classes/spring/T5_Bean_Scope_Singleton/Cat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/target/classes/spring/T5_Bean_Scope_Singleton/Dog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/target/classes/spring/T5_Bean_Scope_Singleton/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/target/classes/spring/T5_Bean_Scope_Singleton/Pet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/target/classes/spring/T5_Bean_Scope_Singleton/TEST5_Bean_scope_singleton.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/target/classes/spring/T6_Bean_scope_Prototype/Cat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/target/classes/spring/T6_Bean_scope_Prototype/Dog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/target/classes/spring/T6_Bean_scope_Prototype/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/target/classes/spring/T6_Bean_scope_Prototype/Pet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/target/classes/spring/T6_Bean_scope_Prototype/TEST6_Bean_scope_Prototype.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/target/classes/spring/T7_Config_with_Annotation/Cat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/target/classes/spring/T7_Config_with_Annotation/Dog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/target/classes/spring/T7_Config_with_Annotation/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/target/classes/spring/T7_Config_with_Annotation/Pet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/target/classes/spring/T7_Config_with_Annotation/TEST7_Config_with_Annotation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/target/classes/spring/T8_Config_with_Annotation_Qualifier/Cat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/target/classes/spring/T8_Config_with_Annotation_Qualifier/Dog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/target/classes/spring/T8_Config_with_Annotation_Qualifier/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/target/classes/spring/T8_Config_with_Annotation_Qualifier/Pet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/target/classes/spring/T8_Config_with_Annotation_Qualifier/TEST8_Config_with_Annotation_Qualifier.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/target/classes/spring/T9_Init_and_Destroy/Cat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/target/classes/spring/T9_Init_and_Destroy/Dog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/target/classes/spring/T9_Init_and_Destroy/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/target/classes/spring/T9_Init_and_Destroy/Pet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_Course_daniil/target/classes/spring/T9_Init_and_Destroy/TEST9_Init_and_Destroy.class" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hibernate/Bi_directional/Detail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hibernate/Bi_directional/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hibernate/Bi_directional/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hibernate/CRUD/CreateRecordInTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hibernate/CRUD/Delete.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hibernate/CRUD/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hibernate/CRUD/GetIdOfRecordOrObjectFromTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hibernate/CRUD/SearchFromTableByCondition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hibernate/CRUD/SetSalaryForEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hibernate/Many_to_Many/Entity/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hibernate/Many_to_Many/Entity/Section.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hibernate/Many_to_Many/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hibernate/One_to_One/Entity/Detail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hibernate/One_to_One/Entity/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hibernate/One_to_One/Entity/Test1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/After_Return_Advice/MyConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/After_Return_Advice/MyConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/After_Return_Advice/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/After_Return_Advice/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/After_Return_Advice/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/After_Return_Advice/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/After_Return_Advice/University.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/After_Return_Advice/University.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/After_Return_Advice/UniversityLoggingAspect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/After_Return_Advice/UniversityLoggingAspect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/After_Throwing_Advice/MyConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/After_Throwing_Advice/MyConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/After_Throwing_Advice/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/After_Throwing_Advice/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/After_Throwing_Advice/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/After_Throwing_Advice/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/After_Throwing_Advice/University.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/After_Throwing_Advice/University.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/After_Throwing_Advice/UniversityLoggingAspect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/After_Throwing_Advice/UniversityLoggingAspect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/After_Return_Advice/MyConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/After_Return_Advice/MyConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/After_Return_Advice/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/After_Return_Advice/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/After_Return_Advice/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/After_Return_Advice/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/After_Return_Advice/University.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/After_Return_Advice/University.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/After_Return_Advice/UniversityLoggingAspect.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/After_Return_Advice/UniversityLoggingAspect.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/After_Throwing_Advice/MyConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/After_Throwing_Advice/MyConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/After_Throwing_Advice/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/After_Throwing_Advice/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/After_Throwing_Advice/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/After_Throwing_Advice/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/After_Throwing_Advice/University.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/After_Throwing_Advice/University.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/After_Throwing_Advice/UniversityLoggingAspect.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/After_Throwing_Advice/UniversityLoggingAspect.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -305,43 +76,49 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/Daniil/Git/Practice/Spring_Course",
+    "last_opened_file_path": "C:/Users/Daniil/Git/Practice/Spring_Course_daniil/src/Hibernate/Bi_directional",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.45747125",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Daniil\Git\Practice\Spring_Course_daniil\src\Hibernate\Bi_directional" />
       <recent name="C:\Users\Daniil\Git\Practice\Spring_Course_daniil" />
       <recent name="C:\Users\Daniil\Git\Practice\Spring_Course_daniil\src" />
       <recent name="C:\Users\Daniil\Git\Practice\Spring_Course_daniil\src\spring\T12_Annotation_Value_in_Java_Code" />
       <recent name="C:\Users\Daniil\Git\Practice\Spring_Course_daniil\src\spring\T10_Spring_Configuration_with_Annotation" />
-      <recent name="C:\Users\Daniil\Git\Practice\Spring_Course_daniil\src\spring\T9_Init_and_Destroy" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Daniil\Git\Practice\Spring_Course_daniil" />
-      <recent name="C:\Users\Daniil\Git\Practice\Spring_Course_daniil\src\spring\T12_Annotation_Value_in_Java_Code" />
       <recent name="C:\Users\Daniil\Git\Practice\Spring_Course_daniil\resources" />
-      <recent name="C:\Users\Daniil\Git\Practice\Spring_Course_daniil\src\spring\Create_Object_with_Spring" />
-      <recent name="C:\Users\Daniil\Git\Practice\Spring_Course_daniil\src" />
+      <recent name="C:\Users\Daniil\Git\Practice\Spring_Course_daniil\src\Hibernate" />
+      <recent name="C:\Users\Daniil\Git\Practice\Spring_Course_daniil\src\Hibernate\Entity" />
+      <recent name="C:\Users\Daniil\Git\Practice\Spring_Course_daniil\src\spring\T12_Annotation_Value_in_Java_Code" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Hibernate.One_to_One.Entity" />
+      <recent name="Hibernate" />
       <recent name="spring.T10_Spring_Configuration_with_Annotation" />
       <recent name="spring" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TEST1_Create_Object_with_Spring">
-    <configuration name="Aspect_Oriented_Programming.PointCut_with_Referance.TEST_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Aspect_Oriented_Programming.PointCut_with_Referance.TEST_1" />
+  <component name="RunManager" selected="Application.Hibernate.CRUD.CreateRecordInTable">
+    <configuration name="After_Throwing_Advice.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="After_Throwing_Advice.Test" />
       <module name="Spring_Course_daniil" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Aspect_Oriented_Programming.PointCut_with_Referance.*" />
+          <option name="PATTERN" value="After_Throwing_Advice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -349,12 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T12_Annotation_Value_in_Java_Code" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Dependency_Injection_and_Spring_Container_Configuration.T12_Annotation_Value_in_Java_Code.T12_Annotation_Value_in_Java_Code" />
+    <configuration name="Aspect_Oriented_Programming.PointCut_inObject.TEST_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Aspect_Oriented_Programming.PointCut_inObject.TEST_1" />
       <module name="Spring_Course_daniil" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Dependency_Injection_and_Spring_Container_Configuration.T12_Annotation_Value_in_Java_Code.*" />
+          <option name="PATTERN" value="Aspect_Oriented_Programming.PointCut_inObject.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -362,12 +139,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TEST11_Spring_Configuration_with_Annotation_inside_Configuration_Class" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Dependency_Injection_and_Spring_Container_Configuration.T11_Dependency_inside_.TEST11_Spring_Configuration_with_Annotation_inside_Configuration_Class" />
+    <configuration name="Hibernate.CRUD.CreateRecordInTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hibernate.CRUD.CreateRecordInTable" />
       <module name="Spring_Course_daniil" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Dependency_Injection_and_Spring_Container_Configuration.T11_Dependency_inside_.*" />
+          <option name="PATTERN" value="Hibernate.CRUD.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -375,12 +152,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TEST1_Create_Object_with_Spring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Dependency_Injection_and_Spring_Container_Configuration.T1_Create_Object_with_Spring.TEST1_Create_Object_with_Spring" />
+    <configuration name="TEST_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Aspect_Oriented_Programming.JoinPoint.TEST_1" />
       <module name="Spring_Course_daniil" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Dependency_Injection_and_Spring_Container_Configuration.T1_Create_Object_with_Spring.*" />
+          <option name="PATTERN" value="Aspect_Oriented_Programming.JoinPoint.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -403,11 +180,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TEST1_Create_Object_with_Spring" />
-        <item itemvalue="Application.T12_Annotation_Value_in_Java_Code" />
-        <item itemvalue="Application.Aspect_Oriented_Programming.PointCut_with_Referance.TEST_1" />
+        <item itemvalue="Application.Hibernate.CRUD.CreateRecordInTable" />
+        <item itemvalue="Application.TEST_1" />
+        <item itemvalue="Application.After_Throwing_Advice.Test" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.TEST11_Spring_Configuration_with_Annotation_inside_Configuration_Class" />
+        <item itemvalue="Application.Aspect_Oriented_Programming.PointCut_inObject.TEST_1" />
       </list>
     </recent_temporary>
   </component>
@@ -420,6 +197,14 @@
       <option name="presentableId" value="Default" />
       <updated>1678794283710</updated>
     </task>
+    <task id="LOCAL-00001" summary="git restage">
+      <created>1679211219597</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1679211219597</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -438,6 +223,8 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
+    <MESSAGE value="git restage" />
+    <option name="LAST_COMMIT_MESSAGE" value="git restage" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand>
