@@ -1,17 +1,18 @@
 package Hibernate.CRUD;
 
-import Hibernate.CRUD.Employee;
-
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.hibernate.cfg.Configuration;
+
+import java.io.File;
 
 
 public class CreateRecordInTable {
 
     public static void main(String[] args) {
+        File f = new File("hibernate.cfg.xml");
         SessionFactory factory = new Configuration()
-                .configure("hibernate.cfg.xml")
+                .configure(f)
                 .addAnnotatedClass(Employee.class)
                 .buildSessionFactory();
 

@@ -20,7 +20,7 @@ public class Employee {
     @Column(name = "salary")
     private int salary;
 
-    private Detail empDetail;
+//    private Detail empDetail;
 
     public Employee() {
 

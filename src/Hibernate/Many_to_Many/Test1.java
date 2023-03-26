@@ -1,7 +1,5 @@
 package Hibernate.Many_to_Many;
 
-import Hibernate.Bi_directional.Detail;
-import Hibernate.Bi_directional.Employee;
 import Hibernate.Many_to_Many.Entity.Child;
 import Hibernate.Many_to_Many.Entity.Section;
 import org.hibernate.Session;
@@ -10,7 +8,7 @@ import org.hibernate.cfg.Configuration;
 
 public class Test1 {
     public static void main(String[] args) {
-        SessionFactory factory = Configuration
+        SessionFactory factory = new Configuration()
                 .configure("hibernate.cfg.xml")
                 .addAnnotatedClass(Child.class)
                 .addAnnotatedClass(Section.class)

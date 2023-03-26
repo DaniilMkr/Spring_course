@@ -1,6 +1,5 @@
 package Hibernate.Many_to_Many.Entity;
 
-import org.hibernate.annotations.ManyToAny;
 
 import javax.persistence.*;
 import java.util.ArrayList;

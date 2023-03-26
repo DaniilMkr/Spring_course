@@ -5,46 +5,84 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef222ec5-4b65-415f-a0e2-78121329022a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hibernate.cfg.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jdbc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hibernate/Bi_directional/Detail.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hibernate/Bi_directional/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hibernate/Bi_directional/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hibernate/CRUD/CreateRecordInTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hibernate/CRUD/Delete.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hibernate/CRUD/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hibernate/CRUD/GetIdOfRecordOrObjectFromTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hibernate/CRUD/SearchFromTableByCondition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hibernate/CRUD/SetSalaryForEmployee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hibernate/Many_to_Many/Entity/Child.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hibernate/Many_to_Many/Entity/Section.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hibernate/Many_to_Many/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hibernate/One_to_One/Entity/Detail.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hibernate/One_to_One/Entity/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hibernate/One_to_One/Entity/Test1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/After_Return_Advice/MyConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/After_Return_Advice/MyConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/After_Return_Advice/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/After_Return_Advice/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/After_Return_Advice/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/After_Return_Advice/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/After_Return_Advice/University.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/After_Return_Advice/University.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/After_Return_Advice/UniversityLoggingAspect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/After_Return_Advice/UniversityLoggingAspect.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/After_Throwing_Advice/MyConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/After_Throwing_Advice/MyConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/After_Throwing_Advice/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/After_Throwing_Advice/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/After_Throwing_Advice/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/After_Throwing_Advice/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/After_Throwing_Advice/University.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/After_Throwing_Advice/University.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/After_Throwing_Advice/UniversityLoggingAspect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/After_Throwing_Advice/UniversityLoggingAspect.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/After_Return_Advice/MyConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/After_Return_Advice/MyConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/After_Return_Advice/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/After_Return_Advice/Student.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/After_Return_Advice/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/After_Return_Advice/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/After_Return_Advice/University.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/After_Return_Advice/University.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/After_Return_Advice/UniversityLoggingAspect.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/After_Return_Advice/UniversityLoggingAspect.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/After_Throwing_Advice/MyConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/After_Throwing_Advice/MyConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/After_Throwing_Advice/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/After_Throwing_Advice/Student.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/After_Throwing_Advice/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/After_Throwing_Advice/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/After_Throwing_Advice/University.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/After_Throwing_Advice/University.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/After_Throwing_Advice/UniversityLoggingAspect.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/After_Throwing_Advice/UniversityLoggingAspect.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hibernate.cfg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Hibernate/CRUD/CreateRecordInTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hibernate/CRUD/CreateRecordInTable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Hibernate/CRUD/Delete.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hibernate/CRUD/Delete.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Hibernate/CRUD/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hibernate/CRUD/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Hibernate/CRUD/GetIdOfRecordOrObjectFromTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hibernate/CRUD/GetIdOfRecordOrObjectFromTable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Hibernate/CRUD/SearchFromTableByCondition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hibernate/CRUD/SearchFromTableByCondition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Hibernate/CRUD/SetSalaryForEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hibernate/CRUD/SetSalaryForEmployee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Hibernate/Many_to_Many/Entity/Child.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hibernate/Many_to_Many/Entity/Child.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Hibernate/Many_to_Many/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hibernate/Many_to_Many/Test1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Hibernate/One_to_One/Entity/Detail.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hibernate/One_to_One/Entity/Detail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Hibernate/One_to_One/Entity/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hibernate/One_to_One/Entity/Test1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Hibernate/Entity/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Hibernate/Test1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Hibernate/Test2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring/T10_Spring_Configuration_with_Annotation/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring/T10_Spring_Configuration_with_Annotation/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring/T10_Spring_Configuration_with_Annotation/MyConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring/T10_Spring_Configuration_with_Annotation/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring/T10_Spring_Configuration_with_Annotation/Pet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring/T10_Spring_Configuration_with_Annotation/TEST10_Spring_Configuration_with_AnnotationConfigApplicationContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring/T11_Spring_Dependency_with_Annotation_inside_Configuration_Class/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring/T11_Spring_Dependency_with_Annotation_inside_Configuration_Class/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring/T11_Spring_Dependency_with_Annotation_inside_Configuration_Class/MyConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring/T11_Spring_Dependency_with_Annotation_inside_Configuration_Class/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring/T11_Spring_Dependency_with_Annotation_inside_Configuration_Class/Pet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring/T11_Spring_Dependency_with_Annotation_inside_Configuration_Class/TEST11_Spring_Configuration_with_Annotation_inside_Configuration_Class.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring/T12_Annotation_Value_in_Java_Code/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring/T12_Annotation_Value_in_Java_Code/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring/T12_Annotation_Value_in_Java_Code/MyConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring/T12_Annotation_Value_in_Java_Code/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring/T12_Annotation_Value_in_Java_Code/Pet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring/T12_Annotation_Value_in_Java_Code/T12_Annotation_Value_in_Java_Code.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring/T1_Create_Object_with_Spring/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring/T1_Create_Object_with_Spring/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring/T1_Create_Object_with_Spring/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring/T1_Create_Object_with_Spring/Pet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring/T1_Create_Object_with_Spring/TEST1_Create_Object_with_Spring.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring/T2_Dependency_injection_in_constructor/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring/T2_Dependency_injection_in_constructor/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring/T2_Dependency_injection_in_constructor/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring/T2_Dependency_injection_in_constructor/Pet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring/T2_Dependency_injection_in_constructor/TEST2_Dependency_injection_in_constructor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring/T3_Dependency_injection_in_setMethod/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring/T3_Dependency_injection_in_setMethod/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring/T3_Dependency_injection_in_setMethod/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring/T3_Dependency_injection_in_setMethod/Pet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring/T3_Dependency_injection_in_setMethod/TEST3_Dependency_injection_in_setMethod.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring/T4_Dependency_injection_in_setMethod_via_Property_File/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring/T4_Dependency_injection_in_setMethod_via_Property_File/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring/T4_Dependency_injection_in_setMethod_via_Property_File/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring/T4_Dependency_injection_in_setMethod_via_Property_File/Pet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring/T4_Dependency_injection_in_setMethod_via_Property_File/TEST4_Dependency_injection_in_setMethod_via_Property_File.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring/T5_Bean_Scope_Singleton/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring/T5_Bean_Scope_Singleton/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring/T5_Bean_Scope_Singleton/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring/T5_Bean_Scope_Singleton/Pet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring/T5_Bean_Scope_Singleton/TEST5_Bean_scope_singleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring/T6_Bean_scope_Prototype/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring/T6_Bean_scope_Prototype/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring/T6_Bean_scope_Prototype/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring/T6_Bean_scope_Prototype/Pet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring/T6_Bean_scope_Prototype/TEST6_Bean_scope_Prototype.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring/T7_Config_with_Annotation/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring/T7_Config_with_Annotation/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring/T7_Config_with_Annotation/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring/T7_Config_with_Annotation/Pet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring/T7_Config_with_Annotation/TEST7_Config_with_Annotation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring/T8_Config_with_Annotation_Qualifier/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring/T8_Config_with_Annotation_Qualifier/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring/T8_Config_with_Annotation_Qualifier/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring/T8_Config_with_Annotation_Qualifier/Pet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring/T8_Config_with_Annotation_Qualifier/TEST8_Config_with_Annotation_Qualifier.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring/T9_Init_and_Destroy/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring/T9_Init_and_Destroy/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring/T9_Init_and_Destroy/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring/T9_Init_and_Destroy/Pet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring/T9_Init_and_Destroy/TEST9_Init_and_Destroy.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +121,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/Daniil/Git/Practice/Spring_Course_daniil/src/Hibernate/Bi_directional",
+    "last_opened_file_path": "C:/Users/Daniil/Desktop/IT program/02. SQL/mysql-connector-j-8.0.32/mysql-connector-j-8.0.32/mysql-connector-j-8.0.32.jar",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.45747125",
@@ -100,10 +138,10 @@
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Daniil\Git\Practice\Spring_Course_daniil" />
+      <recent name="C:\Users\Daniil\Git\Practice\Spring_Course_daniil\src" />
+      <recent name="C:\Users\Daniil\Git\Practice\Spring_Course_daniil\src\Hibernate\One_to_One\Entity" />
       <recent name="C:\Users\Daniil\Git\Practice\Spring_Course_daniil\resources" />
       <recent name="C:\Users\Daniil\Git\Practice\Spring_Course_daniil\src\Hibernate" />
-      <recent name="C:\Users\Daniil\Git\Practice\Spring_Course_daniil\src\Hibernate\Entity" />
-      <recent name="C:\Users\Daniil\Git\Practice\Spring_Course_daniil\src\spring\T12_Annotation_Value_in_Java_Code" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="Hibernate.One_to_One.Entity" />
@@ -113,25 +151,12 @@
     </key>
   </component>
   <component name="RunManager" selected="Application.Hibernate.CRUD.CreateRecordInTable">
-    <configuration name="After_Throwing_Advice.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="After_Throwing_Advice.Test" />
+    <configuration name="Hibernate.Bi_directional.Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hibernate.Bi_directional.Test1" />
       <module name="Spring_Course_daniil" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="After_Throwing_Advice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Aspect_Oriented_Programming.PointCut_inObject.TEST_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Aspect_Oriented_Programming.PointCut_inObject.TEST_1" />
-      <module name="Spring_Course_daniil" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Aspect_Oriented_Programming.PointCut_inObject.*" />
+          <option name="PATTERN" value="Hibernate.Bi_directional.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -152,6 +177,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Hibernate.One_to_One.Entity.Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hibernate.One_to_One.Entity.Test1" />
+      <module name="Spring_Course_daniil" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Hibernate.One_to_One.Entity.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TEST_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Aspect_Oriented_Programming.JoinPoint.TEST_1" />
       <module name="Spring_Course_daniil" />
@@ -165,12 +203,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="After_Return_Advice.Test" />
+    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hibernate.Many_to_Many.Test1" />
       <module name="Spring_Course_daniil" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="After_Return_Advice.*" />
+          <option name="PATTERN" value="Hibernate.Many_to_Many.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -181,10 +219,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Hibernate.CRUD.CreateRecordInTable" />
+        <item itemvalue="Application.Hibernate.One_to_One.Entity.Test1" />
+        <item itemvalue="Application.Test1" />
+        <item itemvalue="Application.Hibernate.Bi_directional.Test1" />
         <item itemvalue="Application.TEST_1" />
-        <item itemvalue="Application.After_Throwing_Advice.Test" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.Aspect_Oriented_Programming.PointCut_inObject.TEST_1" />
       </list>
     </recent_temporary>
   </component>
